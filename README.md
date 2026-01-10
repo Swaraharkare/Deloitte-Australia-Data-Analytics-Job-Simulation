@@ -25,4 +25,4 @@ Tool Proficiency: Advanced usage of Tableau and Excel for business intelligence.
 Communication: Presenting technical insights in a consulting context.
 
 📜 Certificate
-You can view my completion certificate issued by Deloitte Australia via Forage here: [Insert Link to Your Certificate].
+You can view my completion certificate issued by Deloitte Australia via Forage here: https://github.com/Swaraharkare/Certificates-/blob/28b6c236bf22c8db91220054c5cbc6f1933440a5/Deloitte%20Australia%20Data%20Analytics%20Job%20Simulation.pdf
