@@ -7,13 +7,13 @@ During this simulation, I acted as a Junior Data Analyst at Deloitte, tackling c
 
 #### 🛠️ Tasks & Modules
 
-**Task 1: Data Analysis (Dashboard Creation)**
+**Task 1: Data Analysis (Dashboard Creation)** <br>
 **Goal:** Build a dashboard to explore and understand Daikibo’s machine telemetry data.<br>
 **Tools Used:** Tableau.<br>
 **Key Learnings:** Data visualization, trend identification, and performance monitoring for 9 machine types across 4 global factories.<br>
 **Deliverable:** Deloitte_Telemetry_Dashboard.twbx (or PDF export).<br>
 
-**Task 2: Forensic Technology (Unfair Pay Investigation)**
+**Task 2: Forensic Technology (Unfair Pay Investigation)**<br>
 **Goal:** Support a forensic team in investigating gender pay equality by analyzing salary data.<br>
 **Tools Used:** Microsoft Excel.<br>
 **Key Learnings:** Data classification, drawing logical conclusions from datasets, and forensic documentation.<br>
