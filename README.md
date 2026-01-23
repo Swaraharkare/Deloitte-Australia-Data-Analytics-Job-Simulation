@@ -17,15 +17,21 @@ During this simulation, I acted as a Junior Data Analyst at Deloitte, tackling c
 **Task 2: Forensic Technology (Unfair Pay Investigation)**
 
 **Goal:** Support a forensic team in investigating gender pay equality by analyzing salary data.
+
 **Tools Used:** Microsoft Excel.
+
 **Key Learnings:** Data classification, drawing logical conclusions from datasets, and forensic documentation.
+
 **Deliverable:** Forensic_Pay_Analysis.xlsx.
 
 ### 🚀 Skills Gained
 
 **Data Visualization:** Designing actionable dashboards for business stakeholders.
+
 **Forensic Analytics:** Using data to identify discrepancies and support legal/compliance investigations.
+
 **Tool Proficiency:** Advanced usage of Tableau and Excel for business intelligence.
+
 **Communication:** Presenting technical insights in a consulting context.
 
 #### 📜 Certificate
