@@ -42,7 +42,6 @@ This repository contains my solutions to the **Deloitte Australia Data Analytics
 | :--- | :--- |
 | `Dashboards/` | Tableau workbook files (.twbx) and dashboard screenshots. |
 | `Excel-Analysis/` | Excel files with pay equality classification and formulas. |
-| `Conclusions.md` | Final executive summary and business recommendations. |
 
 ---
 
@@ -54,5 +53,5 @@ This repository contains my solutions to the **Deloitte Australia Data Analytics
 ---
 
 ## 🔗 Connect with Me
-*   **LinkedIn:** [Your Name](https://www.linkedin.com)
-*   **Portfolio:** [Link to your portfolio]
+*   **LinkedIn:** https://www.linkedin.com/in/swaranjali-harkare-364a592a8/
+*   **Portfolio:** https://github.com/Swaraharkare/Deloitte-Australia-Data-Analytics-Job-Simulation
