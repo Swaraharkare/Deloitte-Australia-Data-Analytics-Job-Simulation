@@ -1,31 +1,58 @@
 # 📊 Deloitte Australia Data Analytics Job Simulation
 
-This repository contains my completed tasks for the **Deloitte Australia Data Analytics Virtual Experience** hosted on [Forage](https://www.theforage.com). This program simulates a real-world project for **Daikibo Industrials**, a global manufacturing leader, focusing on data-driven decision-making and forensic analysis.
+## 🏢 Project Overview
+This repository contains my solutions to the **Deloitte Australia Data Analytics & Forensic Technology** job simulation on Forage. I acted as a Data Analyst at Deloitte to assist **Daikibo Industrials**, a global machinery manufacturer, in solving operational and HR challenges using data-driven insights.
 
 ---
 
-### 📋 Program Overview
-As a Junior Data Analyst at Deloitte, I tackled challenges related to Industrial Internet-of-Things (IIoT) telemetry and organizational forensic investigations to improve operational efficiency and transparency.
+## 🛠️ Tasks & Deliverables
 
-### 🛠️ Project Modules & Deliverables
+### 1. 🏭 Factory Telemetry Analysis (Tableau)
+**Business Problem:** Daikibo converted telemetry data from 4 global factories into a single JSON file and needed to identify operational bottlenecks.
+*   **Locations Analyzed:** 
+    *   🇯🇵 Tokyo, Japan (Meiyo)
+    *   🇯🇵 Osaka, Japan (Seiko)
+    *   🇩🇪 Berlin, Germany
+    *   🇨🇳 Shenzhen, China
+*   **Key Questions Addressed:**
+    *   In which location did machines break the most?
+    *   What are the machines that broke most often in that location?
+*   **Skills:** Data Unification, Dashboard Design, Trend Analysis.
 
-| Task | Module | Description & Key Learnings | Tools | Deliverable |
-| :--- | :--- | :--- | :---: | :--- |
-| **1** | **Data Analysis** | Created a dashboard to monitor IIoT telemetry across 9 machine types in 4 global factories. Focused on trend identification and performance monitoring. | 🎨 **Tableau** | [Telemetry Dashboard](./Deloitte_Telemetry_Dashboard.twbx) |
-| **2** | **Forensic Tech** | Supported a forensic investigation into gender pay equality. Analyzed salary datasets to identify discrepancies and document findings. | 📈 **Excel** | [Pay Analysis](./Forensic_Pay_Analysis.xlsx) |
+### 2. ⚖️ Forensic Accountancy: Gender Pay Equality (Excel)
+**Business Problem:** Investigate internal complaints regarding salary inequality across global roles.
+*   **Action:** Used a forensic algorithm to quantify the "level of gender pay equality" for various job roles.
+*   **Key Tasks:** 
+    *   Classified complex datasets using Excel.
+    *   Identified specific roles and locations where pay gaps were most prevalent.
+    *   Proposed business conclusions to the Forensic lead.
+*   **Skills:** Data Classification, Forensic Audit, Statistical Analysis.
 
 ---
 
-### 🚀 Skills Gained
-
-*   **🔍 Forensic Analytics:** Identifying data discrepancies to support legal and compliance investigations.
-*   **📊 Data Visualization:** Designing actionable dashboards for C-suite business stakeholders.
-*   **💡 Business Intelligence:** Proficiency in advanced Tableau and Excel for consulting.
-*   **🗣️ Communication:** Translating technical insights into clear business recommendations.
+## 🧰 Tools Used
+*   **Tableau:** For creating interactive data dashboards.
+*   **Microsoft Excel:** For data cleaning, classification, and drawing business conclusions.
+*   **JSON:** Handling and interpreting unified telemetry data.
 
 ---
 
-### 📜 Certificate
+## 📂 Repository Structure
+| File/Folder | Description |
+| :--- | :--- |
+| `Dashboards/` | Tableau workbook files (.twbx) and dashboard screenshots. |
+| `Excel-Analysis/` | Excel files with pay equality classification and formulas. |
+| `Conclusions.md` | Final executive summary and business recommendations. |
 
-You can view my completion certificate issued by **Deloitte Australia** via Forage here:  
-👉 [**View Completion Certificate**](https://github.com/Swaraharkare/Certificates-/blob/28b6c236bf22c8db91220054c5cbc6f1933440a5/Deloitte%20Australia%20Data%20Analytics%20Job%20Simulation.pdf)
+---
+
+## 🎓 Certification
+- **Program:** Deloitte Australia Data Analytics & Forensic Technology
+- **Host:** [Forage](https://www.theforage.com)
+- **Completed:** 2026
+
+---
+
+## 🔗 Connect with Me
+*   **LinkedIn:** [Your Name](https://www.linkedin.com)
+*   **Portfolio:** [Link to your portfolio]
