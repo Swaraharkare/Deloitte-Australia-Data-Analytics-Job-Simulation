@@ -19,6 +19,9 @@ This repository contains my solutions to the **Deloitte Australia Data Analytics
     *   What are the machines that broke most often in that location?
 *   **Skills:** Data Unification, Dashboard Design, Trend Analysis.
 
+*   <img width="1287" height="763" alt="task1" src="https://github.com/user-attachments/assets/5e0744cd-32e8-4c17-93fb-f0cc7bf495d9" />
+
+
 ### 2. ⚖️ Forensic Accountancy: Gender Pay Equality (Excel)
 **Business Problem:** Investigate internal complaints regarding salary inequality across global roles.
 *   **Action:** Used a forensic algorithm to quantify the "level of gender pay equality" for various job roles.
